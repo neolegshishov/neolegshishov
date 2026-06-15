@@ -31,5 +31,5 @@
 
 ## Контакты
 
-Telegram: @oshishov
-Email: razoryoutub@mail.ru
+- Telegram: @oshishov
+- Email: razoryoutub@mail.ru
