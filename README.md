@@ -1,16 +1,35 @@
-## Hi there 👋
+# Олег
 
-<!--
-**neolegshishov/neolegshishov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (Flask, PySide6, oracledb)
+- Docker, Kubernetes (k0s)
+- Linux
+- PostgreSQL, Oracle Database
+- Nginx
+
+---
+
+## Интересы
+
+- Автоматизация и интеграции
+- Контейнеризация и оркестрация
+- RAG‑подходы и работа с текстовыми данными
+- Кибербезопасность, CTF‑платформы
+- Преподавание и помощь студентам
+
+---
+
+## Профили
+
+- Основной: https://github.com/neolegshishov
+- Архивный (заблокирован GitHub из-за санкций): https://github.com/razoryoutub
+
+---
+
+## Контакты
+
+Telegram: @oshishov
+Email: razoryoutub@mail.ru
